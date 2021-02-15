@@ -18,9 +18,10 @@ sections:
         description: >
           Now THAT is true, but we love user experience even more. We talk about
           it all the time and saw that the existing products in the market were
-          either too technical or not user-friendly enough. As plant enthusiasts
-          we understand not everyone has the time in their busy schedules to
-          properly care for their plants - so we built Gro!
+          either too technical or not user-friendly enough. As plant
+          enthusiasts, we understand not everyone has the time in their busy
+          schedules to properly care for their plants. So, we built a Gro - a
+          device that makes everyone's fingers green!
         image: images/nan_talk.jpg
       - title: We think plants are the future
         description: >-
