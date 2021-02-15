@@ -23,7 +23,7 @@
         },
         {
             "title": "My Greenhouse",
-            "url": "lorem-ipsum",
+            "url": "\\greenhouse",
             "style": "primary",
             "arrow": false,
             "type": "action"
