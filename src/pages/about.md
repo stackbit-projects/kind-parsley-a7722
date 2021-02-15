@@ -10,7 +10,7 @@ sections:
       Well, we're really a group of Imperial College London students with a
       passion for plants and the environment. We saw an opportunity to combine
       our software and hardware experience to try and help you take care of your
-      plants. 
+      plants.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
