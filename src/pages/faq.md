@@ -22,7 +22,6 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: 'Imperial College London, Exhibition Rd, South Kensington, London SW7 2BU'
-    email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
 ---
