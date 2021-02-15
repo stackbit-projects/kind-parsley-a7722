@@ -8,10 +8,6 @@ sections:
     background_image_opacity: 65
     content: |
       # Take care of your plants...the smart way!
-    actions:
-      - title: See all items
-        url: /store
-        arrow: true
-        style: primary
+    actions: []
 template: home
 ---
