@@ -8,7 +8,7 @@ sections:
     headline: Our Product
     subtitle: |
       We've worked really hard on this - so we hope you like it!
-  - title: The Sensors
+  - title: Features
     section_id: lorem-ipsum
     light_title: false
     icon: false
