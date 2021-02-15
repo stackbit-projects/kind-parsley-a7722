@@ -9,6 +9,10 @@ sections:
     content: |
       #
 
+
+
+
+
       # Take care of your plants...the smart way!
     actions: []
 template: home
