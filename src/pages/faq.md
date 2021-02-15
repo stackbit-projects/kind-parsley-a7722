@@ -18,7 +18,7 @@ sections:
       - src/pages/products/product-fchqfo4mu.md
       - src/pages/products/product-bfkl37tx7.md
     type: featured_products_section
-  - section_id: lorem-ipsum
+  - section_id: The Product
     background_image_opacity: 0
     content: >-
       ## Lorem ipsum
