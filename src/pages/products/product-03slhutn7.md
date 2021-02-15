@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Temperature
-description: lorem-ipsum
+description: Thermopile sensor
 price: lorem-ipsum
 order: 0
 featured: false
