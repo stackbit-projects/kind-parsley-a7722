@@ -13,9 +13,5 @@ sections:
         url: /store
         arrow: true
         style: primary
-  - type: featured_categories_section
-    section_id: featured_categories_section
-    featured_categories:
-      - src/pages/category/cactuses.md
 template: home
 ---
