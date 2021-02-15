@@ -15,5 +15,11 @@ sections:
     phone: +1-202-555-0112
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    light_title: false
+    icon: false
+    featured_products: []
+    type: featured_products_section
 template: advanced
 ---
