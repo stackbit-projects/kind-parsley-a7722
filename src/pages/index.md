@@ -7,9 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      #
-
-      # &#xA;&#xA;Take care of your plants...the smart way!
+      # Take care of your plants...the smart way!
     actions: []
 template: home
 ---
