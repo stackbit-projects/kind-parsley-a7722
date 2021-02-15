@@ -25,7 +25,7 @@ sections:
     actions: []
     type: hero_section
   - section_id: lorem-ipsum
-    background_image_opacity: 0
+    background_image_opacity: 75
     content: >-
       ## Lorem ipsum
 
