@@ -21,7 +21,7 @@ sections:
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
-    address: Imperial College London
+    address: 'Imperial College London, Exhibition Rd, South Kensington, London SW7 2BU'
     phone: +1-202-555-0112
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
