@@ -2,7 +2,6 @@
 id: lorem-ipsum
 title: Temperature
 description: Thermopile sensor
-price: lorem-ipsum
 order: 0
 featured: false
 template: product
