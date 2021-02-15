@@ -14,6 +14,7 @@ sections:
     icon: false
     featured_products:
       - src/pages/products/product-03slhutn7.md
+      - src/pages/products/product-go9o748nh.md
     type: featured_products_section
   - type: contact_section
     image: images/promo.jpg
