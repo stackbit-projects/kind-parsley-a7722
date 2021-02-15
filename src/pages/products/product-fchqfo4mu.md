@@ -6,6 +6,7 @@ price: lorem-ipsum
 order: 0
 featured: false
 template: product
+default_thumbnail_image: images/120870055.webp
 ---
 ## Lorem ipsum
 
