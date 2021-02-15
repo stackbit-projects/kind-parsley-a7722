@@ -16,6 +16,7 @@ sections:
       - src/pages/products/product-03slhutn7.md
       - src/pages/products/product-go9o748nh.md
       - src/pages/products/product-fchqfo4mu.md
+      - src/pages/products/product-bfkl37tx7.md
     type: featured_products_section
   - type: contact_section
     image: images/promo.jpg
