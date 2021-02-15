@@ -26,16 +26,5 @@ sections:
       - title: We think plants are the future
         description: "RHS retail reported a\_houseplant\_sales growth of 50% in 2018, driven largely by foliage plant sales which have doubled. With this increase, we realised that the importance of caring for these plants was more important than ever. Studies have shown that placing greenery in your workspace increases productivity - and there's nothing we love more at Gro than working hard (oh yeh and plants too!)\n"
         image: images/team.jpg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: /images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: primary
-      arrow: true
 template: advanced
 ---
