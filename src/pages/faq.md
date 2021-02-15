@@ -24,12 +24,6 @@ sections:
       Insert a labelled Image of our product
     actions: []
     type: hero_section
-  - type: contact_section
-    image: images/promo.jpg
-    section_id: contact_section
-    address: 'Imperial College London, Exhibition Rd, South Kensington, London SW7 2BU'
-    mapUrl: >-
-      https://www.google.com/maps/place/Imperial+College+London/@51.4988222,-0.1748735,15z/data=!4m2!3m1!1s0x0:0x31911b371c692e86?sa=X&ved=2ahUKEwiN_ImwjOzuAhWEnVwKHcUzDg0Q_BIwH3oECEIQBQ
   - section_id: lorem-ipsum
     background_image_opacity: 0
     content: >-
@@ -45,5 +39,11 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
+  - type: contact_section
+    image: images/promo.jpg
+    section_id: contact_section
+    address: 'Imperial College London, Exhibition Rd, South Kensington, London SW7 2BU'
+    mapUrl: >-
+      https://www.google.com/maps/place/Imperial+College+London/@51.4988222,-0.1748735,15z/data=!4m2!3m1!1s0x0:0x31911b371c692e86?sa=X&ved=2ahUKEwiN_ImwjOzuAhWEnVwKHcUzDg0Q_BIwH3oECEIQBQ
 template: advanced
 ---
