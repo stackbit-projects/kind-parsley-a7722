@@ -2,7 +2,7 @@
 id: '2'
 price: '99.00'
 title: Matthew Scott
-description: Suspendisse efficitur eget erat sit amet efficitur.
+description: Head of Software
 default_thumbnail_image: images/plant2.jpg
 default_original_image: images/plant2-lg.jpg
 order: 2
