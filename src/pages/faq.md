@@ -12,7 +12,8 @@ sections:
     section_id: lorem-ipsum
     light_title: false
     icon: false
-    featured_products: []
+    featured_products:
+      - src/pages/products/product-03slhutn7.md
     type: featured_products_section
   - type: contact_section
     image: images/promo.jpg
