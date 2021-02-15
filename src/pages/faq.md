@@ -39,7 +39,7 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
-    background_image: images/plant5.jpg
+    background_image: images/plant3-lg.jpg
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
