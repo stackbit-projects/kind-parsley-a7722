@@ -18,6 +18,5 @@ sections:
     featured_categories:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
-    title: Meet the Team
 template: home
 ---
