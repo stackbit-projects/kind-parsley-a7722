@@ -22,6 +22,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: 'Imperial College London, Exhibition Rd, South Kensington, London SW7 2BU'
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: >-
+      https://www.google.com/maps/place/Imperial+College+London/@51.4988222,-0.1748735,15z/data=!4m2!3m1!1s0x0:0x31911b371c692e86?sa=X&ved=2ahUKEwiN_ImwjOzuAhWEnVwKHcUzDg0Q_BIwH3oECEIQBQ
 template: advanced
 ---
