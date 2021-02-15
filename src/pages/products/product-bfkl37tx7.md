@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Water
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
