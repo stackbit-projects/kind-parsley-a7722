@@ -30,7 +30,8 @@ sections:
     section_id: lorem-ipsum
     light_title: false
     icon: false
-    featured_products: []
+    featured_products:
+      - src/pages/products/product-gbdvxz77f.md
     type: featured_products_section
 template: advanced
 ---
