@@ -6,6 +6,7 @@ order: 0
 featured: false
 template: product
 default_thumbnail_image: images/1296_MED.jpg
+price: Thermopile Sensor
 ---
 ## Lorem ipsum
 
