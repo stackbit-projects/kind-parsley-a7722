@@ -12,11 +12,6 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Home",
-            "url": "/home",
-            "style": "link"
-        },
-        {
             "title": "About Us",
             "url": "/about",
             "style": "link"
