@@ -20,17 +20,8 @@ sections:
     type: featured_products_section
   - section_id: The Product
     background_image_opacity: 0
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Insert a labelled Image of our product
     actions: []
     type: hero_section
   - type: contact_section
